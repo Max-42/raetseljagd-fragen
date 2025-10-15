@@ -2,7 +2,7 @@
 
 ## Über das Spiel
 
-Die Rätseljagd ist ein interaktives Spiel, das dir hilft, den Campus der TU Braunschweig und seine Geschichte besser kennenzulernen. Du kannst die Rätseljagd allein oder in einer Gruppe spielen.
+Die Rätseljagd ist ein interaktives Spiel, das dir hilft, den Campus der TU Braunschweig und seine Geschichte besser kennenzulernen.
 
 ## So funktioniert's:
 
@@ -10,6 +10,7 @@ Die Rätseljagd ist ein interaktives Spiel, das dir hilft, den Campus der TU Bra
 2. **Fragen beantworten:** Nach dem Scannen erhältst du eine Frage zur TU Braunschweig.
 3. **Punkte sammeln:** Für jede richtige Antwort erhältst du Punkte.
 4. **Offline-Modus:** Die App funktioniert auch offline. Deine Antworten werden gespeichert und später synchronisiert.
+5. **Hinweis:** es muss der QR-Code gescannt worden sein und die Antwort eingegeben werden.
 
 ## Tipps:
 
@@ -150,6 +151,8 @@ Macht ein **Foto eurer Gruppe** mit **einem der folgenden Motive** (oder mehrere
 # 16  
 ### 📸 Upload Challenge  
 Zum Abschluss:  
-Ladet **euer Lieblingsfoto der Rätseljagd** in der App hoch –  
-egal ob Gruppenbild, Fun-Moment oder Selfie mit einem QR-Code!  
+Schickt **euer Lieblingsfoto der Rätseljagd** in eure Gruppe bzw. eure Buddys.
+Egal ob Gruppenbild, Fun-Moment oder Selfie mit einem QR-Code!  
 Das kreativste Bild bekommt **Extrapunkte und Ruhm unter den Erstis**.  
+
+> Sollte es irgendwelche Probleme mit der Web-App oder ähnliches geben, schreibt euch die Bilder zu den Nummern auf den QR-Codes auf und notiert eure Antworten.
