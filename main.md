@@ -18,13 +18,6 @@ Die Rätseljagd ist ein interaktives Spiel, das dir hilft, den Campus der TU Bra
 - Achte auf die Hinweise unter jeder Frage
 - Bei einigen Fragen können verschiedene Antworten richtig sein
 
-## Teamspiel:
-
-Wenn du in einer Gruppe spielst:
-- Erstelle eine Gruppe in der App
-- Teile den Gruppenlink mit deinen Teammitgliedern
-- Die Punkte werden für die gesamte Gruppe gezählt
-
 ## Viel Erfolg bei der Rätseljagd!
 
 *Entwickelt von Studierenden für Studierende der TU Braunschweig*
