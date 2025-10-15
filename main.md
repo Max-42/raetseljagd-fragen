@@ -20,7 +20,6 @@ Die Rätseljagd ist ein interaktives Spiel, das dir hilft, den Campus der TU Bra
 
 ## Viel Erfolg bei der Rätseljagd!
 
-*Entwickelt von Studierenden für Studierende der TU Braunschweig*
 
 ---
 
@@ -47,7 +46,7 @@ In der Nähe versteckt sich ein **QR-Code** – haltet die Augen offen!
 
 ---
 
-#04  
+# 04 
 ### 💛 Gelb ist doch die Post?  
 Gelbe Briefkästen sind selten geworden.  
 Findet **einen gelben Briefkasten innerhalb eines Uni-Gebäudes** und macht **ein Foto eurer Gruppe** davor.  
