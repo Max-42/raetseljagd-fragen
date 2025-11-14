@@ -79,9 +79,9 @@ Ihr dürft diese Challenge **mehrmals an verschiedenen Druckern** machen.
 ---
 
 # 08  
-### 👨‍🔬 Namensvetter  
-Der Namensgeber eurer Fakultät steht als Statue in der Nähe der Uni.  
-Findet die **Statue** und macht dort ein **Foto eurer Gruppe**.  
+### 📚 Bibliothek
+Finde Das buch von Brian W. Kernighan und Dennis M. Ritchie mit dem Titel "The C Programming Language" in der Bibliothek der TU Braunschweig.  
+Notiere dir die **Regalnummer** und scanne den **QR-Code** auf der Seite des Hello World Programms.
 
 ---
 
